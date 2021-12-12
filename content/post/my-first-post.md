@@ -5,5 +5,5 @@ draft: true
 ---
 
 Hello. It's my time. I would check these links out as well.
-Github: https://github.com/minichest
-Site: http://aezlo.com
+- Github: https://github.com/minichest
+- Site: http://aezlo.com
