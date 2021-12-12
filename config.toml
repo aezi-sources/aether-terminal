@@ -1,4 +1,4 @@
-baseurl = "http://minichest.github.io/aether-terminal"
+baseurl = "https://minichest.github.io/aether-terminal"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
